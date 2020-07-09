@@ -1,1 +1,2 @@
-
+This dapp is built with a smart contract that runs the patient health record management. In this  dapp, only patients have the rights to see his/her Records.
+Whenever the patient  visits a hospital or halth cenytre and wishes to share his health record and other details, he/she should give his/her public Key which the hospital can enter to access the data. Now, Whenever patient wants to see any Record he will be able to see along with the timestamp. No one except the patient will be able to see the Records. ALso , the patient has to provide his/her public and private key to see the HeathRecords.
